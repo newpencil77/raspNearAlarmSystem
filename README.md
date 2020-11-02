@@ -1,5 +1,3 @@
-# raspNearAlarmSystem
-
 ## 라즈베리파이(2 model B) 근거리 경보기
 
 초음파센서로 거리를 측정해
